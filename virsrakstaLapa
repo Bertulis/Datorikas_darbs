@@ -7,13 +7,13 @@
     <body>
  
     <p>kaut kads ievads</p>
-
-    <h1>Saturs</h1>
-    <ol>
-        <li><a href="https://www.w3schools.com/">Atskaite</a></li>
-        <li><a href="https://www.w3schools.com/">Resursi</a></li>
-        <li><a href="https://www.w3schools.com/">Aptauja</a></li>
-    </ol>
+	<h1>My Website</h1>
+   	<h1>Saturs</h1>
+    	<ol>
+        	<li><a href="https://www.w3schools.com/">Atskaite</a></li>
+        	<li><a href="https://www.w3schools.com/">Resursi</a></li>
+        	<li><a href="https://www.w3schools.com/">Aptauja</a></li>
+    	</ol>
 
 
 </body>
