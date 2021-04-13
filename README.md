@@ -1,1 +1,1 @@
-# Datorikas_darbs
+# Datōrikas darbs
