@@ -34,3 +34,7 @@ img {
     border: solid black 7px;
     box-shadow: 6px 6px 9px gray;
 }
+
+em {
+    font-style: italic; margin: 0px;
+}
