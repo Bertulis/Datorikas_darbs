@@ -37,6 +37,6 @@ img {
     height: auto
 }
 
-em {
+em, strong {
     font-style: italic; margin: 0px;
 }
