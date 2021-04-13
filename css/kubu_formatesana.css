@@ -33,7 +33,8 @@ img {
     margin-right: 100px;
     border: solid black 7px;
     box-shadow: 6px 6px 9px gray;
-    overflow-x: hidden;
+    width: 50%;
+    height: auto
 }
 
 em {
